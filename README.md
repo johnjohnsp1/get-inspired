@@ -1,5 +1,5 @@
 # Get-Inspired
-The best inspirational quotes, right in your Powershell console.
+When Powershell is one of the few applications you open on a daily basis, you might as well ease up. I've written this script to help. Get-Inspired.ps1 will write you a motivational quote that will inspire you throughout your session.
 
 [![Join the chat at https://gitter.im/LaureKamalandua/laurekamalandua](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Zhouzi/TheaterJS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -10,10 +10,14 @@ The best inspirational quotes, right in your Powershell console.
 - [**Installation**](##installation)
 - [**Usage**](##usage)
 - [**Notes**](##notes)
+- [**Change Log**](##change log)
+- [**Credits**](##credits)
+
+
 
 ## Installation
 
-* git clone https://github.com/LaureKamalandua/get-inspired.git
+* git clone ```https://github.com/LaureKamalandua/get-inspired.git```
 
 ## Usage
 Run the script from your shell to get a random quote.
@@ -28,7 +32,7 @@ PS C:\System32\> .\Get-Inspired.ps1
        ***************************************************
        
 ```
-Run the Start-Init function to add the script to your Powershell profile. A new quote will be visible every time you open the shell.
+Run the ```Start-Init``` function to add the script to your Powershell profile. A new quote will be visible every time you open the shell.
 ```powershell
 PS C:\Users\User\Downloads\get-inspired\> Import-Module -Name .\Get-Inspired.ps1 
 PS C:\Users\User\Downloads\get-inspired\> Start-Init
@@ -38,7 +42,7 @@ The module has been succesfully added to your profile.
 ```
 
 ## Notes
-If you don't have a Windows Powershell profile set up yet, I kindly point to [this](http://www.howtogeek.com/126469/how-to-create-a-powershell-profile/) link.
+If you don't have a Windows Powershell profile set up yet, I ```kindly point to [this](http://www.howtogeek.com/126469/how-to-create-a-powershell-profile/) link.```
 
 ## Change Log
 
