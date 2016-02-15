@@ -50,5 +50,5 @@ If you don't have a Windows Powershell profile set up yet, I kindly point to [th
 ## Credits
 
 Built with ❤ by [Laure Kamalandua](http://laurekamalandua.com)<br>
-Twitter ([@laurekamalandua](http://twitter.com/laurekamalandua))<br>
-Contact [laure.kamalandua@gmail.com](mailto:laure.kamalandua@gmail.com)
+Twitter: ([@laurekamalandua](http://twitter.com/laurekamalandua))<br>
+Contact: [laure.kamalandua@gmail.com](mailto:laure.kamalandua@gmail.com)
