@@ -7,11 +7,11 @@ When Powershell is one of the few applications you open on a daily basis, you mi
 
 
 ## Contents
-- [**Installation**](##installation)
-- [**Usage**](##usage)
-- [**Notes**](##notes)
-- [**Change Log**](##change log)
-- [**Credits**](##credits)
+- [**Installation**](#installation)
+- [**Usage**](#usage)
+- [**Notes**](#notes)
+- [**Change Log**](#change-log)
+- [**Credits**](#credits)
 
 
 
