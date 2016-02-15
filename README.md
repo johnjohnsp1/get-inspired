@@ -3,7 +3,7 @@ The best inspirational quotes, right in your Powershell console.
 
 [![Join the chat at https://gitter.im/LaureKamalandua/laurekamalandua](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Zhouzi/TheaterJS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-![Alt text](/images/icon.png)
+![Alt text](get-inspired/images/icon.png)
 
 
 ## Contents
@@ -13,7 +13,7 @@ The best inspirational quotes, right in your Powershell console.
 
 ## Installation
 
-* git clone 
+* git clone https://github.com/LaureKamalandua/get-inspired.git
 
 ## Usage
 ### Run the script from your shell to get a random quote.
