@@ -42,7 +42,7 @@ The module has been succesfully added to your profile.
 ```
 
 ## Notes
-If you don't have a Windows Powershell profile set up yet, I ```kindly point to [this](http://www.howtogeek.com/126469/how-to-create-a-powershell-profile/) link.```
+If you don't have a Windows Powershell profile set up yet, I kindly point to [this](http://www.howtogeek.com/126469/how-to-create-a-powershell-profile/) link.
 
 ## Change Log
 
