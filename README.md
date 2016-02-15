@@ -16,7 +16,7 @@ The best inspirational quotes, right in your Powershell console.
 * git clone https://github.com/LaureKamalandua/get-inspired.git
 
 ## Usage
-### Run the script from your shell to get a random quote.
+Run the script from your shell to get a random quote.
 ```powershell
 PS C:\System32\> .\Get-Inspiration.ps1
 
@@ -28,7 +28,7 @@ PS C:\System32\> .\Get-Inspiration.ps1
        ***************************************************
        
 ```
-### Run the Start-Init function to add the script to your Powershell profile. A new quote will be visible every time you open the shell.
+Run the Start-Init function to add the script to your Powershell profile. A new quote will be visible every time you open the shell.
 ```powershell
 PS C:\Users\User\Downloads\get-inspired\> Import-Module -Name .\Get-Inspiration.ps1 
 PS C:\Users\User\Downloads\get-inspired\> Start-Init
